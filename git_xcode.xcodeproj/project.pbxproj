@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		E5430996223F5B90005ECB93 /* git_xcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = git_xcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5430999223F5B90005ECB93 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		E54309A1223F7277005ECB93 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		E543098D223F5B90005ECB93 = {
 			isa = PBXGroup;
 			children = (
+				E54309A1223F7277005ECB93 /* README.md */,
 				E5430998223F5B90005ECB93 /* git_xcode */,
 				E5430997223F5B90005ECB93 /* Products */,
 			);
