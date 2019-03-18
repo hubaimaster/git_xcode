@@ -1,0 +1,12 @@
+//
+//  main.swift
+//  git_xcode
+//
+//  Created by Chang Hwan Kim on 18/03/2019.
+//  Copyright © 2019 Chang-Hwan Kim. All rights reserved.
+//
+
+import Foundation
+
+print("Hello, World!")
+
